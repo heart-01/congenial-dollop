@@ -123,9 +123,9 @@
 
                             <!-- Login Form -->
                             <form>
-                                <input type="text" id="login" class="fadeIn second" name="Email" placeholder="Email">
-                                <input type="text" id="password" class="fadeIn third" name="Password" placeholder="Password">
-                                <input type="submit" class="fadeIn fourth btn-primary" value="Log In">
+                                <input type="text" id="login" class="fadeIn second txtLogin" name="Email" placeholder="Email">
+                                <input type="text" id="password" class="fadeIn third txtLogin" name="Password" placeholder="Password">
+                                <input type="submit" class="fadeIn fourth btn-primary btnLogin" value="Log In">
                             </form>
 
                             <!-- Remind Passowrd -->
