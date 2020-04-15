@@ -31,12 +31,20 @@ a:focus {
     border-radius: 0;
     margin-bottom: 40px;
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+    position: absolute;
+    top:0;
+    width:80%;
 }
 
 .navbar-btn {
     box-shadow: none;
     outline: none !important;
     border: none;
+}
+
+.divMenu{
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .line {
@@ -174,6 +182,13 @@ a.article:hover {
 }
 #content .nav li a:hover{
     color: #750000;
+}
+
+.divContent{
+    margin-top: 75px;
+}
+.divFooter{
+    margin-bottom: 50px;
 }
 
 /*#content .navbar{
